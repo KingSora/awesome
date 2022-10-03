@@ -32,8 +32,8 @@ Plugins created and maintained by the Rollup organization.
 - [replace](https://github.com/rollup/plugins/tree/master/packages/replace) – Replace occurrences of a set of strings.
 - [run](https://github.com/rollup/plugins/tree/master/packages/run) - Run your bundle after it's generated.
 - [strip](https://github.com/rollup/plugins/tree/master/packages/strip) - Remove expressions from code.
-- [sucrase](https://github.com/rollup/plugins/tree/master/packages/sucrase) - Compile 
-, Flow, JSX.
+- [sucrase](https://github.com/rollup/plugins/tree/master/packages/sucrase) - Compile
+  , Flow, JSX.
 - [typescript](https://github.com/rollup/plugins/tree/master/packages/typescript) - Seamless integration with Typescript.
 - [url](https://github.com/rollup/plugins/tree/master/packages/url) - Inline import files as data-URIs.
 - [virtual](https://github.com/rollup/plugins/tree/master/packages/virtual) - Load modules from memory.
@@ -109,6 +109,7 @@ and external modules.
 - [bower-resolve](https://github.com/mjeanroy/rollup-plugin-bower-resolve) – Use Bower the resolution algorithm.
 - [cjs-es](https://github.com/eight04/rollup-plugin-cjs-es) - Convert CommonJS modules without proxying and reassignment.
 - [consts](https://github.com/NotWoods/rollup-plugin-consts) - Import constants at build time.
+- [esbuild-resolve](https://github.com/KingSora/rollup-plugin-esbuild-resolve) - Use rollup with the resolution algorithm implementation of [esbuild](https://github.com/evanw/esbuild).
 - [external-assets](https://github.com/recursive-beast/rollup-plugin-external-assets) - Make assets external but include them in the output.
 - [external-globals](https://github.com/eight04/rollup-plugin-external-globals) - Replace imported bindings with a global variable.
 - [force-binding](https://github.com/tehvgg/rollup-plugin-force-binding) - Composes multi-entry and node-resolve to prevent duplicated imports.
